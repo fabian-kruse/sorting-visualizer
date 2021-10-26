@@ -99,7 +99,7 @@ Just try to run the following command:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/fabian-kruse/Sorting-Visualizer
+   git clone https://github.com/fabian-kruse/sorting-visualizer
    ```
 2. Run the file in the "src" folder
    ```sh
@@ -146,17 +146,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Fabian Kruse - fabian_kruse@gmx.de
 
-Project Link: [https://github.com/fabian-kruse/Sorting-Visualizer](https://github.com/fabian-kruse/Sorting-Visualizer)
+Project Link: [https://github.com/fabian-kruse/sorting-visualizer](https://github.com/fabian-kruse/Sorting-Visualizer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
 © 2021 GitHub, Inc.
 Terms
 Privacy
