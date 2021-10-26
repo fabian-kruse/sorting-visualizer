@@ -1,6 +1,6 @@
 # Sorting-Visualizer-Tool
 
-This sorting visualizer was built with Pygame, a python library which is used to process user input and visualise the sorting process.
+This sorting visualizer was built with Pygame, a python library which is used to process user input and visualzse the sorting process.
  
    
 <div id="top"></div>
@@ -36,7 +36,7 @@ This sorting visualizer was built with Pygame, a python library which is used to
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This python based sorting visualizer can be used to compare, analyse and visualise different sorting algorithms.
+This python based sorting visualizer can be used to compare, analyze and visualize different sorting algorithms.
 It is possible to change between different algorithms, see how they work and compare important features such as the number of array accesses or exachanges used in the sorting process.
 This can be informative since the algorihtms can be started on the same data.
 
@@ -62,7 +62,7 @@ Otherwise you can follow the Prerequisites to see how to install them.
 For this project you need to have Python installed. 
 Just try to run the followng command: 
 ```sh
-  python --version
+ python --version
 ```
  If this runs successfully and we are able to get a python version, we are ready to go.
  Otherwise refer to [https://www.python.org/](https://www.python.org/)
@@ -111,7 +111,11 @@ After that you are being asked how many elements should be sorted, the tool shou
 In the tool you can use the left and right key to switch between algorithms, and if you press "r" you get a new random initialization of the elements.
 If you hit the space bar the sorting process begins.
 In the title bar you can see the number of exchanges and the number of array accesses for this sorting process.
-
+ 
+ <p align="center">
+  <img src="./images/example.png" width="400" title="example of tool">
+</p>
+ 
 Enjoy!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
