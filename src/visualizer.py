@@ -17,12 +17,13 @@ Press "r" to get a new randomization of the list.
 Enjoy!'''
 
 def get_size():
-    msg = input("Please enter the number of elements between 10 and 200: ")
-    try:
-        if type(int(msg)) is int and int(msg) >= 10 and int(msg) <= 200:
-            return int(msg)
-    except:
-        print("invalid input")
+    while True:
+        msg = input("Please enter the number of elements between 10 and 200: ")
+        try:
+            if type(int(msg)) is int and int(msg) >= 10 and int(msg) <= 200:
+                return int(msg)
+        except:
+            print("invalid input")
 
 def check_open():
     for event in pg.event.get():
