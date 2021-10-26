@@ -58,11 +58,13 @@ This can be informative since the algorithms can be started on the same data.
 To make use of this project, you need to have Python and Pygame installed.
 
 If you have that already you can jump right over to the Installation section.
+
 Otherwise, you can follow the Prerequisites to see how to install them.
 
 ### Prerequisites
 
 For this project, you need to have Python installed. 
+
 Just try to run the following command: 
 ```sh
  python --version
@@ -85,6 +87,7 @@ Just try to run the following command:
  We will use PIP to install Pygame, a tool that is useful to install modules in Python.
  
  PIP comes with Python 3.4+ included, so we can use it right away.
+ 
  Run the following command to install pygame. 
  ```sh 
  pip install pygame
@@ -98,7 +101,7 @@ Just try to run the following command:
    ```sh
    git clone https://github.com/fabian-kruse/Sorting-Visualizer
    ```
-2. Run the file
+2. Run the file in the "src" folder
    ```sh
    visualizer.py
    ```
@@ -114,7 +117,9 @@ When starting the project you get a small introduction to how the tool works in 
 After that you are being asked how many elements should be sorted, the tool should open after you entered a number.
 
 In the tool, you can use the left and right keys to switch between algorithms, and if you press "r" you get a new random initialization of the elements.
+
 If you hit the space bar the sorting process begins.
+
 In the title bar, you can see the number of exchanges and the number of array accesses for this sorting process.
  
  <p align="center">
